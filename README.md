@@ -53,6 +53,7 @@
 | --- | --- |
 | [accounting](http://openexchangerates.github.io/accounting.js/) | 货币格式化 |
 | [animejs](http://animejs.com/) | JS动画 |
+| [antv](http://antv.alipay.com/) | 蚂蚁金服数据可视化解决方案，包括G2、G6、F2 |
 | [axios](https://github.com/axios/axios) | HTTP |
 | [babel-polyfill](https://babeljs.io/docs/en/babel-polyfill) | ES6兼容 |
 | [chinese-finance-number](https://www.npmjs.com/package/chinese-finance-number) | 财务中文大写数字 |
