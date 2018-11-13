@@ -73,6 +73,7 @@
 | [highlight.js](https://highlightjs.org/) | 代码高亮 |
 | [js-cookie](https://github.com/js-cookie/js-cookie) | Cookies |
 | [jsencrypt](http://travistidwell.com/jsencrypt/) | RSA加密 |
+| [lazysizes](https://www.npmjs.com/package/lazysizes) | 图片延迟加载 |
 | [localforage](https://localforage.github.io/localForage/) | 本地存储，主要用于indexedDB |
 | [lodash](https://lodash.com/) | 工具函数 |
 | [marked](https://marked.js.org/) | Markdown转HTML |
