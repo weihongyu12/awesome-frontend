@@ -70,6 +70,7 @@
 | [fastclick](https://github.com/ftlabs/fastclick) | 解决移动浏览器点击延迟的问题 |
 | [fullcalendar](https://fullcalendar.io/) | 日历 |
 | [graphql](https://graphql.org/) | GraphQL |
+| [hammerjs](https://hammerjs.github.io/) | 实现移动端手势操作 |
 | [highlight.js](https://highlightjs.org/) | 代码高亮 |
 | [js-cookie](https://github.com/js-cookie/js-cookie) | Cookies |
 | [jsencrypt](http://travistidwell.com/jsencrypt/) | RSA加密 |
@@ -100,6 +101,8 @@
 | [nuxt](https://nuxtjs.org/) | 服务端渲染 |
 | [vue-test-utils](https://vue-test-utils.vuejs.org/) | 单元测试 |
 | [eslint-plugin-vue](https://cn.vuejs.org/v2/style-guide/) | Vue代码风格 |
+| [vuepress](https://vuepress.vuejs.org/) | Vue文档生成 |
+| [vue-styleguidist](https://vue-styleguidist.github.io/) | Vue组件风格文档生成 |
 | [vue-i18n](http://kazupon.github.io/vue-i18n/) | 国际化 |
 | [vue-apollo](https://akryum.github.io/vue-apollo/) | GraphQL（基于Appllo） |
 | [vue-skeleton-webpack-plugin](https://www.npmjs.com/package/vue-skeleton-webpack-plugin) | vue的骨架屏 skeleton |
@@ -118,6 +121,8 @@
 | [react-360](https://facebook.github.io/react-360/) | VR |
 | [react-apollo](https://www.apollographql.com/docs/react/) | GraphQL（基于Appllo） |
 | [eslint-plugin-airbnb](https://airbnb.io/javascript/) | airbnb代码风格（带React） |
+| [docusaurus](https://docusaurus.io/) | React文档生成 |
+| [react-styleguidist](https://react-styleguidist.js.org/) | React组件风格文档生成 |
 | [react-skeleton-webpack-plugin](https://www.npmjs.com/package/react-skeleton-webpack-plugin) | react的骨架屏 skeleton |
 
 ## React Native 生态
